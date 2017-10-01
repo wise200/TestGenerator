@@ -1,0 +1,24 @@
+1. HENRIETTA has 17 shirts and 25 pairs of pants. How many possible outfit combinations can she wear?
+2. The Ac Dec team at Gifted and Talented Magnet School is electing 2 team captains from a pool of 12 club members. How many possible pairs of captains are there?
+3. The Ac Dec team at Gifted and Talented Magnet School is electing a President, a VP, and a Historian from a pool of 12 club members. How many officer combinations are there?
+4. What is 4!
+5. ELDRIDGE borrows $27550 from the bank at 8% simple interest. How much will he owe in 19 years assuming he pays nothing back?
+6. NATHAN invests $29189 in a retirement account that compounds monthly at 11% per year. How much money will he have in 29 years?
+7. EURA invests $48671 in a retirement account that compounds quarterly at 13% per year. How much money will she have in 21 years?
+8. TYSON put all his life savings into an account that compounded quarterly at 14% per year. 26 years later, the account has 97302 dollars in it. How much money did he originally put into the account?
+9. ERROL invests $23709 in a retirement account that compounds yearly at 8% per year. How much money will he have in 34 years?
+10. LEENA needs to invest $34950 in a retirement account for 57 years. How much more money would she have with 7% yearly interest compounded monthly than with 6% simple interest?
+11. A right triangle has two legs of lengths 16 and 19. What is the length of the hypotenuse?
+12. What is the maximum length of a pole that can be fit inside a 13 x 11 x 21 box?
+13. A 45-45-90 triangle has a hypotenuse of length 42. What is the perimeter?
+14. A 30-60-90 triangle has a hypotenuse of length 46. What is the perimeter?
+15. What is the midpoint between (41,14) and (-32,23)?
+16. What is the distance between (-8,48) and (38,-3)?
+17. What is the distance between the points (-16,36,-12) and (-25,37,46)?
+18. Find an equation in slope-intercept form through the origin with a slope perpindicular to the line y = 36x + 42.
+19. A polygon has 19 sides. What is the sum of its interior angles in degrees?
+20. A convex polygon has 40 sides. How many distinct internal diagonals can be drawn between its vertices?
+21. A triangular prism has as its base an equilateral triangle of side length 7. What is the surface area if the prism's height is 16?
+22. A triangular prism has as its base an equilateral triangle of side length 2. What is the volume if the prism's height is 5?
+23. A cylindrical barrel has a height of 114 centimeters and a radius of 89 centimeters. What is the barrel's surface area in cm^2? Assume pi = 3.14.
+24. A cylindrical barrel has a height of 123 centimeters and a radius of 86 centimeters. How much liquid can it hold in cm^3? Assume pi = 3.14.
