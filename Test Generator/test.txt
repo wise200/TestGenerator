@@ -1,24 +1,35 @@
-1. HENRIETTA has 17 shirts and 25 pairs of pants. How many possible outfit combinations can she wear?
-2. The Ac Dec team at Gifted and Talented Magnet School is electing 2 team captains from a pool of 12 club members. How many possible pairs of captains are there?
+1. TASHIA has 24 shirts and 11 pairs of pants. How many possible outfit combinations can she wear?
+2. The Ac Dec team at Gifted and Talented Magnet School is electing 2 team captains from a pool of 18 club members. How many possible pairs of captains are there?
 3. The Ac Dec team at Gifted and Talented Magnet School is electing a President, a VP, and a Historian from a pool of 12 club members. How many officer combinations are there?
-4. What is 4!
-5. ELDRIDGE borrows $27550 from the bank at 8% simple interest. How much will he owe in 19 years assuming he pays nothing back?
-6. NATHAN invests $29189 in a retirement account that compounds monthly at 11% per year. How much money will he have in 29 years?
-7. EURA invests $48671 in a retirement account that compounds quarterly at 13% per year. How much money will she have in 21 years?
-8. TYSON put all his life savings into an account that compounded quarterly at 14% per year. 26 years later, the account has 97302 dollars in it. How much money did he originally put into the account?
-9. ERROL invests $23709 in a retirement account that compounds yearly at 8% per year. How much money will he have in 34 years?
-10. LEENA needs to invest $34950 in a retirement account for 57 years. How much more money would she have with 7% yearly interest compounded monthly than with 6% simple interest?
-11. A right triangle has two legs of lengths 16 and 19. What is the length of the hypotenuse?
-12. What is the maximum length of a pole that can be fit inside a 13 x 11 x 21 box?
-13. A 45-45-90 triangle has a hypotenuse of length 42. What is the perimeter?
-14. A 30-60-90 triangle has a hypotenuse of length 46. What is the perimeter?
-15. What is the midpoint between (41,14) and (-32,23)?
-16. What is the distance between (-8,48) and (38,-3)?
-17. What is the distance between the points (-16,36,-12) and (-25,37,46)?
-18. Find an equation in slope-intercept form through the origin with a slope perpindicular to the line y = 36x + 42.
-19. A polygon has 19 sides. What is the sum of its interior angles in degrees?
-20. A convex polygon has 40 sides. How many distinct internal diagonals can be drawn between its vertices?
-21. A triangular prism has as its base an equilateral triangle of side length 7. What is the surface area if the prism's height is 16?
-22. A triangular prism has as its base an equilateral triangle of side length 2. What is the volume if the prism's height is 5?
-23. A cylindrical barrel has a height of 114 centimeters and a radius of 89 centimeters. What is the barrel's surface area in cm^2? Assume pi = 3.14.
-24. A cylindrical barrel has a height of 123 centimeters and a radius of 86 centimeters. How much liquid can it hold in cm^3? Assume pi = 3.14.
+4. What is 9!
+5. RENALDO borrows $29127 from the bank at 6% simple interest. How much will he owe in 7 years assuming he pays nothing back?
+6. ALPHONSE invests $29855 in a retirement account that compounds monthly at 10% per year. How much money will he have in 39 years?
+7. ONITA invests $2570 in a retirement account that compounds quarterly at 7% per year. How much money will she have in 11 years?
+8. ROGELIO put all his life savings into an account that compounded quarterly at 15% per year. 53 years later, the account has 52039 dollars in it. How much money did he originally put into the account?
+9. ADOLFO invests $44246 in a retirement account that compounds yearly at 10% per year. How much money will he have in 9 years?
+10. SHANIKA needs to invest $13789 in a retirement account for 47 years. How much more money would she have with 6% yearly interest compounded monthly than with 6% simple interest?
+11. A right triangle has two legs of lengths 17 and 15. What is the length of the hypotenuse?
+12. What is the maximum length of a pole that can be fit inside a 22 x 8 x 2 box?
+13. A 45-45-90 triangle has a hypotenuse of length 38. What is the perimeter?
+14. A 30-60-90 triangle has a hypotenuse of length 14. What is the perimeter?
+15. What is the midpoint between (-47,37) and (24,4)?
+16. What is the distance between (-26,-6) and (43,26)?
+17. What is the distance between the points (-36,11,15) and (-39,-38,-18)?
+18. Find an equation in slope-intercept form through the origin with a slope perpindicular to the line y = 37x + 13.
+19. A polygon has 45 sides. What is the sum of its interior angles in degrees?
+20. A convex polygon has 28 sides. How many distinct internal diagonals can be drawn between its vertices?
+21. A triangular prism has as its base an equilateral triangle of side length 7. What is the surface area if the prism's height is 15?
+22. A triangular prism has as its base an equilateral triangle of side length 6. What is the volume if the prism's height is 18?
+23. A cylindrical barrel has a height of 132 centimeters and a radius of 59 centimeters. What is the barrel's surface area in cm^2? Assume pi = 3.14.
+24. A cylindrical barrel has a height of 148 centimeters and a radius of 47 centimeters. How much liquid can it hold in cm^3? Assume pi = 3.14.
+25. The base of one of the pyramids at Giza is a square with side length 135 meters. The pyramid is 229 meters tall. How much brick, in cubic meters, was used to build the pyramid?
+26. The base of one of the pyramids at Giza is a square with side length 142 meters. The pyramid is 209 meters tall. What is the surface area of the pyramid?
+27. A pyramid has a base of area 75 and height of 72. What is the volume?
+28. The top of an ice cream cone has a radius of 3 cm, and the cone is 17 cm deep. How much ice cream in cm^3 can it hold?
+29. A cone has a radius of 4 cm and a slant height of 23 cm. What is the surface area of the club?
+30. A dodgeball has a radius of 11 cm. How much air does it contain, in cm^3.
+31. A sphere has a diameter of 45. What is its surface area?
+32. A triangle has side lengths of 15, 14, and 5. If the shortest side of a similar triangle is 25, what is that triangle's perimeter?
+33. WILTON'scustom made rubiks cube has a side length of 17 inches. What is the cube's volume?
+34. Mr. Brown's can of Diet Coke has a height of 2 inches a volume of 19 cm^3. What is the volume in cm^3 of his similarly sized XL Blue Monster if it has a height of 7 inches?
+35. The clock in SERINA's room has a diameter of 27 cm. What is the clock's area?
