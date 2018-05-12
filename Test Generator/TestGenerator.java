@@ -35,20 +35,22 @@ public class TestGenerator {
 		BufferedWriter testWriter = new BufferedWriter(new FileWriter("test.txt"));
 		BufferedWriter answerWriter = new BufferedWriter(new FileWriter("answers.txt"));
 		
-		int i = 1;
-		for (QuestionGenerator qg : generators) {
-			Question q = qg.generate(); //getQuestion();
+		//int i = 1;
+		for (int i = 1; i <= 10000; i++) {
+			Question q = getQuestion(); //getQuestion();
 			testWriter.write(i + ". " + q.question());
 			answerWriter.write(i + ". " + q.answer());
-			testWriter.newLine();
+			for (int j = 0; j < 5; j++)
+				testWriter.newLine();
 			answerWriter.newLine();
 			System.out.println("Question " + i + " finished");
-			i++;
 		}
+
+		
 		
 		testWriter.close();
 		answerWriter.close();
-		
+		System.out.println("Done");
 	}	
 	private static Question getQuestion() {
 		return generators.get((int) (Math.random() * generators.size())).generate();
